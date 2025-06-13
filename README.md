@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Chauneecev/threat-hunting-scenario-tor-)**
-- **[Devices Accidentally Exposed to the Internet](http://github.com/Chauneecev/threat-hunting-scenario-bruteforce-)**
+
 -  <hr/>
 
 ## 🤳 Connect With Me
